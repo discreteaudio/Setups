@@ -15,9 +15,12 @@ Visual Studio C++ Build tools (https://visualstudio.microsoft.com/thank-you-down
 
 python 3.9 (https://www.python.org/downloads/)
 
-pip (Installed manually)
-  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-  python get-pip.py or sudo python get-pip.py in ubuntu 
+pip (Win 10 Installed manually)<br>
+  `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`<br>
+  `python get-pip.py`<br>
+<br>
+pip (Ubuntu apt package install)
+  `sudo apt install python3-pip`
 
 Once pip is installed, install the following via pip
   Win10 - setuptools python-dotenv requests numpy
