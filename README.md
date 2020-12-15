@@ -9,6 +9,11 @@ I will note differences in code where necessary.
 <br>
 Installed Software:
 
+Termius SSH Client (https://termius.com/) 
+
+sFTP Client for Ubuntu (package center)
+WinSCP for Win10Pro (https://winscp.net/eng/index.php)
+
 Visual Studio Code (https://code.visualstudio.com/download#)
 
 Visual Studio C++ Build tools (https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16)
