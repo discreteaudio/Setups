@@ -28,8 +28,8 @@ pip (Ubuntu apt package install)
   `sudo apt install python3-pip`
 
 Once pip is installed, install the following via pip
-  Win10 - setuptools python-dotenv requests numpy
-  just got 
+  Win10 - setuptools python-dotenv requests numpy pylint
+<br>
 Node.js and npm (
 
 Anaconda IDE (https://www.anaconda.com/products/individual)
